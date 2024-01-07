@@ -1,0 +1,37 @@
+[
+  {
+    "title": "CodSoft Task 1",
+    "completed": true,
+    "date": "2024-01-04T22:26:39.464384",
+    "due_date": "04/01/2024",
+    "priority": "1"
+  },
+  {
+    "title": "Codsoft task 2",
+    "completed": false,
+    "date": "2024-01-04T22:27:22.450826",
+    "due_date": "06/01/2024",
+    "priority": "2"
+  },
+  {
+    "title": "Codsoft Task 3",
+    "completed": false,
+    "date": "2024-01-04T22:28:03.703430",
+    "due_date": "09/01/2024",
+    "priority": "3"
+  },
+  {
+    "title": "Codsoft task 4",
+    "completed": false,
+    "date": "2024-01-04T22:28:37.220441",
+    "due_date": "13/01/2024",
+    "priority": "4"
+  },
+  {
+    "title": "Codsoft task 5",
+    "completed": false,
+    "date": "2024-01-04T22:29:20.214066",
+    "due_date": "19/01/2024",
+    "priority": "5"
+  }
+]
